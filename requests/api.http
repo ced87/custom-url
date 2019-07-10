@@ -1,0 +1,7 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+  "longUrl": "https://www.amazon.com/Cedar-Wring-Bucket-System-Refill/dp/B07V257MWS?ref_=Oct_BSellerC_2245503011_1&pf_rd_p=0ae7ac54-6a49-5037-9f33-6a14316a2917&pf_rd_s=merchandised-search-6&pf_rd_t=101&pf_rd_i=2245503011&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=6RZ9CC454FQVACAH8ADG&pf_rd_r=6RZ9CC454FQVACAH8ADG&pf_rd_p=0ae7ac54-6a49-5037-9f33-6a14316a2917"
+
+}
